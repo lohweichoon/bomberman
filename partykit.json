@@ -1,0 +1,4 @@
+{
+  "name": "bomberman",
+  "main": "party/index.ts"
+}
